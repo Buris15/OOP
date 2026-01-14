@@ -2,16 +2,16 @@
 Animal
 
 # Properties
-Name
+Name <br>
 Type
 
 ------
 
 # Object1
-Deer
+Deer <br>
 Mammal
 
 # Object2
-Chicken
+Chicken <br>
 Bird
 
