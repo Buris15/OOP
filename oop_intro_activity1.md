@@ -8,10 +8,10 @@ Type
 ------
 
 # Object1
-Deer <br>
-Mammal
+Name: Deer <br>
+Type: Mammal
 
 # Object2
-Chicken <br>
-Bird
+Name: Chicken <br>
+Type: Bird
 
